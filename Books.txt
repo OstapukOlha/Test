@@ -1,3 +1,0 @@
-"Testing Computer Software"
-"Lessons Learned in Software Testing"
-"Agile Testing"
